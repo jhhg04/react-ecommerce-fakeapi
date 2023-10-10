@@ -1,8 +1,12 @@
-# React + Vite
+# React Ecommerce Fakeapi
+![image](https://github.com/jhhg04/react-ecommerce-fakeapi/assets/52834318/7f6b73bf-2813-47a7-874d-6ae3c430d11b)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/jhhg04/react-ecommerce-fakeapi/assets/52834318/555ba421-d261-45dd-bee3-f5b2a0104b1c)
 
-Currently, two official plugins are available:
+![image](https://github.com/jhhg04/react-ecommerce-fakeapi/assets/52834318/bc7573de-4288-4d20-90fa-d1bb55537eae)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/jhhg04/react-ecommerce-fakeapi/assets/52834318/f17c56b0-7d15-450e-b51f-52a08b72c397)
+
+
+
+
